@@ -34,7 +34,7 @@ public class Task1_2 {
         int[] intArray = { 10, 20, 30, 40, 50 };
 
         // ⑥下記の処理について、何をしているのかコメントを記入してください。
-        // 配列intArrayの1番目と4番目の要素を出力しなさい。
+        // 配列intArrayの1番目と4番目の要素を加算した数を出力しなさい。
         System.out.println(intArray[1] + intArray[4]);
 
     }

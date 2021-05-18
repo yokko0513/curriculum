@@ -24,8 +24,8 @@ public class Task1_3 {
         // ④ 20 を 6 で割った余りを代入する、変数 remi を作成しなさい。
         int remi = 20 % 6;
         // ⑤下記の処理について、何をしているのかコメントを記入してください
-        // "有楽町" を代入する、String型変数 town を作成しなさい。
-        // "線" を代入する、String型変数 line を作成しなさい。
+        // "有楽町" を代入する、String型変数 town を作成している。
+        // "線" を代入する、String型変数 line を作成している。
         String town = "有楽町";
         String line = "線";
 
