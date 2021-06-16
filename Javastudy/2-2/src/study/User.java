@@ -26,6 +26,6 @@ class User {
 
         System.out.println("IDは、" + this.id + "です。");
         
-        System.out.println("IDは、" + this.password + "です。");
+        System.out.println("パスワードは、" + this.password + "です。");
     }
 }
